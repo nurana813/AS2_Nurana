@@ -1,0 +1,116 @@
+.bg-image{
+    background-image: url("../img/banner-bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image2 {
+    background-image: url("../img/services-bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(173, 56, 56, 0.644);
+}
+.bg-shadow1 {
+    background-color:rgba(63, 61, 61, 0.829);
+}
+.bg-shadow2 {
+    background-color: rgba(15, 180, 230, 0.616);
+}
+
+a.hover-1 {
+    position: relative;
+    color: rgb(71, 71, 71)!important;
+}
+a.hover-2 {
+    position: relative;
+    color: rgb(71, 71, 71)!important;
+}
+
+a.hover-1:hover {
+    color: rgb(255, 255, 255)!important;
+}
+a.hover-2:hover {
+    color: #198754!important;
+}
+.card {
+    cursor: pointer;
+    transition: ease 0.5s;
+}
+.card:hover {
+    transform: translateY(-15px);
+}
+.card1 {
+    cursor: pointer;
+    transition: ease 0.7s;
+}
+.card1:hover {
+    transform: translateY(-10px);
+}
+
+.pt-6 {
+    padding-top: 65px;
+}
+.pt-7{
+    padding-top: 100px;
+}
+.pt-9 {
+    padding-top: 110px;
+}
+.pb-6 {
+    padding-bottom: 90px;
+}
+.pb-7 {
+    padding-bottom: 190px;
+}
+
+.text-gray-1 {
+    color: rgb(126, 126, 126)
+}
+
+.btn-2 {
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: bold;
+    padding: 3px 25px;
+    border-radius: 4px;
+    transition: 0.5s;
+    background-color: #198754;
+    border: 6px solid #198754;
+}
+
+.img3 {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.bg-dark2 {
+    background-color: rgb(24, 24, 24);
+}
+.border1{
+    background-color:  rgb(218, 74, 74);
+}
+.w-10{
+    width: 2%;
+}
+
+a.box:hover {
+    background-color: red;
+    color: white; 
+}
+.bg-graywht{
+    background-color: rgb(238, 238, 238);
+}
+.ps-10{
+    padding-left: 90px;
+}
