@@ -105,7 +105,7 @@ a.hover-2:hover {
 }
 
 a.box:hover {
-    background-color: red;
+    background-color: rgb(218, 74, 74) ;
     color: white; 
 }
 .bg-graywht{
